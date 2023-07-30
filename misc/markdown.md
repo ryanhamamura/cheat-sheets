@@ -49,21 +49,22 @@ Image without alt text: ![](image-url)
 Inline `code` has `back-ticks around` it. 
 ```
 #### Blocks of code 
-```
+
+~~~
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
-\`\`\`
+```
+
 ```python
 s = "Python syntax highlighting"
 print s
-\`\`\`
-
-\`\`\`
+```
+```
 No language indicated, so no syntax highlighting. 
 But let's throw in a tag. 
-\`\`\`
 ```
+~~~
 
 ### Tables
 There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. 
