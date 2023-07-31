@@ -15,7 +15,7 @@ brew install hashicorp/tap/packer
 ```
 
 ### Windows 
-(https://developer.hashicorp.com/packer/downloads)
+https://developer.hashicorp.com/packer/downloads
 
 
 ### Linux
