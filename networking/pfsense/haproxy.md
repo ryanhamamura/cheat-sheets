@@ -22,3 +22,9 @@ Generate new account key
 Register account key once the key field is populated
 Save
 ```
+
+## Create backend 
+## Create frontend 
+## Update Add a host override entry in DNS Resolver
+## Restart necessary services 
+
